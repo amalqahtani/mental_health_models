@@ -1,3 +1,4 @@
-# WritingLab datase:
-We fine-tune 3 different models [Distil-RoBERTa, roberta-base, and roberta-large] on the WritingLab dataset to determine whether 
+# Fine-tune RoBERTa models for common downstream task [Text Classification]:
+
+We fine-tune 3 different models [Distil-RoBERTa, roberta-base, and roberta-large] on the {WritingLab dataset} to determine whether 
 a text is written by patient or control.
